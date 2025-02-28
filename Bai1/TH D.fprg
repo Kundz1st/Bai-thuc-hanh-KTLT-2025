@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="TH e"/>
+        <attribute name="authors" value="Admin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-02-28 10:04:51 AM"/>
+        <attribute name="created" value="QWRtaW47QURNSU47MjAyNS0wMi0yODswOTo1MzozMiBBTTsyMTIy"/>
+        <attribute name="edited" value="QWRtaW47QURNSU47MjAyNS0wMi0yODsxMDowNDo1MSBBTTsxOzIyMTk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="h" type="Real" array="False" size=""/>
+            <declare name="day" type="Real" array="False" size=""/>
+            <declare name="s" type="Real" array="False" size=""/>
+            <output expression="&quot;chieu cao&quot;" newline="True"/>
+            <input variable="h"/>
+            <output expression="&quot;canh day&quot;" newline="True"/>
+            <input variable="day"/>
+            <assign variable="s" expression="h*day*1/2"/>
+            <output expression="&quot;dien tich tam giac la&quot;" newline="True"/>
+            <output expression="s" newline="True"/>
+            <output expression="&quot;Lang Van Doan&quot;" newline="True"/>
+            <output expression="&quot;Msv 235752020710023&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

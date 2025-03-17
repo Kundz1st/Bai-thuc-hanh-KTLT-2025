@@ -11,5 +11,5 @@ while (a <= 4000000-1):
     bằng b và b sẽ được thay bằng a+b lặp đi lặp lại cho đến khi a lơn hơn 4000000-1 thì dừng 
     rồi in ra số đầu tiên cho đến số cuối cùng và nếu số a chia 2 dư o thì cộng số đó vào tổng"""
 print("\n tổng của các số chẵn trong dãy fibonaci: ",tong)
-print("Sinh viên: Phạm Trọng Phúc")
-print(" MSSV: 235752020710029")
+print("Sinh viên: Lang Văn Doan")
+print(" MSSV: 235752020710023")

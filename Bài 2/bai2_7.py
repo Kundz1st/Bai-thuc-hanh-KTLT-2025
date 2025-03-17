@@ -9,6 +9,6 @@ for i in range(1,n+1):
 """vòng lặp for với i là các số tiếp từ 1 đến n bao gồm cả n thì sẽ thêm vào từ 
 điển với key là i và giá trị là i*i""" 
 print(d)
-print("Sinh viên: Phạm Trọng Phúc")
-print(" MSSV: 235752020710029")
+print("Sinh viên: Lang Văn Doan")
+print(" MSSV: 235752020710023")
 # print: in ra màn hình

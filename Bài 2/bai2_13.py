@@ -21,5 +21,5 @@ else:
         x1=(-b+math.sqrt(denta))/2
         x2=(-b-math.sqrt(denta))/2
         print("Phương trình có hai nghiệm phân biệt: ",x1,",",x2)
-print("Sinh viên: Phạm Trọng Phúc")
-print(" MSSV: 235752020710029")
+print("Sinh viên: Lang Văn Doan")
+print(" MSSV: 235752020710023")

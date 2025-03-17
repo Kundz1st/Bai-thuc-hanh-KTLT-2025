@@ -7,6 +7,6 @@ else:
     print("n2 is big")
 #if, else: điều kiện ( nếu cái này thì thực hiện lệnh này không thì thực hiện lệnh khác)
 """ nếu n1 lớn hơn n2 in ra n1 là số lơn ngược lại thì in ra n2 lớn"""
-print("Sinh viên: Phạm Trọng Phúc")
-print(" MSSV: 235752020710029")
+print("Sinh viên: Lang Văn Doan")
+print(" MSSV: 235752020710023")
 # print: in ra màn hình

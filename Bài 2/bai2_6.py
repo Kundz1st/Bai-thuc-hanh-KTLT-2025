@@ -12,6 +12,6 @@ for i in range(2000,3201):
 print(','.join(j))
 """.join() là phương thức của chuỗi string dùng để nối các phần tử trong danh sách 
 thành 1 chuỗi sử dụng một kỹ tự phân tách """
-print("Sinh viên: Phạm Trọng Phúc")
-print(" MSSV: 235752020710029")
+print("Sinh viên: Lang Văn Doan")
+print(" MSSV: 235752020710023")
 # print: in ra màn hình

@@ -6,6 +6,6 @@ else:
     print("số đó là lẻ")
 #if, else: điều kiện ( nếu cái này thì thực hiện lệnh này không thì thwucj hiện lệnh khác)
 """Nếu n chia 2 dư 0 thì in ra số đó là số chẵn, khác thì in số đó là số lẻ"""
-print("Sinh viên: Phạm Trọng Phúc")
-print(" MSSV: 235752020710029")
+print("Sinh viên: Lang Văn Doan")
+print(" MSSV: 235752020710023")
 # print: in ra màn hình

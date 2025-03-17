@@ -9,5 +9,5 @@ print(m)
 d={1:l,2:k,'combine_list':m}
 """ tạo danh sách d gồm danh l ,k và m"""
 print(d)
-print("Sinh viên: Phạm Trọng Phúc")
-print(" MSSV: 235752020710029")
+print("Sinh viên: Lang Văn Doan")
+print(" MSSV: 235752020710023")

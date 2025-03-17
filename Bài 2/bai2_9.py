@@ -7,5 +7,5 @@ dict[i] = str.count(i) sẽ gán số lần xuất hiện của i vào từ đi�
 for i in str:
     dict[i]=str.count(i)
 print (dict)
-print("Sinh viên: Phạm Trọng Phúc")
-print(" MSSV: 235752020710029")
+print("Sinh viên: Lang Văn Doan")
+print(" MSSV: 235752020710023")
